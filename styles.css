@@ -6,3 +6,35 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.obsidian_douban_search_input {
+	margin-left: 5px;
+}
+
+.obsidian_douban_search_input_type {
+	margin-right: 5px;
+	float: right;
+}
+
+.obsidian_douban_search_input_content {
+    margin-left: 5px;
+    width: 80%;
+	float: left;
+}
+
+.obsidian_douban_search_controls {
+	margin-top: 20px;
+	margin-right: 5px;
+}
+
+.obsidian_douban_search_button {
+	margin-top: 20px;
+	margin-right: 5px;
+	float:right;
+}
+
+.obsidian_douban_cancel_button {
+	margin-top: 20px;
+	margin-right: 5px;
+	float: right;
+}

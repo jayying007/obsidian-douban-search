@@ -1,9 +1,9 @@
 {
 	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"name": "Douban Search",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"description": "搜索豆瓣资源（影视、书籍、游戏），并添加到文档中",
 	"author": "Obsidian",
 	"authorUrl": "https://obsidian.md",
 	"fundingUrl": "https://obsidian.md/pricing",
